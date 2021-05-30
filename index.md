@@ -92,7 +92,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         align: left
         image_alt: lorem-ipsum
-        image_position: left
+        image_position: right
         actions:
           - label: lorem-ipsum
             url: '#'
