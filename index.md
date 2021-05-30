@@ -66,8 +66,8 @@ sections:
             style: secondary
       - title: Skincare
         content: >
-          ###### Lorem ipsum dolor sit amet, **consectetur adipiscing elit**,
-          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         align: right
         image_alt: lorem-ipsum
         image_position: left
