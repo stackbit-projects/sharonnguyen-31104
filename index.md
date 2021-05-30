@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hello, I''m Sharon'
-    subtitle: "studying data science in school \U0001F50D studying statistics and data science in school\n\U0001F331 learning creativity and empathy in life\n\U0001F433 enjoys movies, tv shows (american tv, kdrama, anime), beauty, fashion, and more"
+    subtitle: "\U0001F50D studying statistics and data science in school\n\U0001F331 learning creativity and empathy in life\n\U0001F433 enjoys movies, tv shows (american tv, kdrama, anime), beauty, fashion, and more"
     actions:
       - label: Learn More
         url: /features
