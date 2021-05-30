@@ -27,7 +27,7 @@ sections:
     features:
       - title: TV Shows
         content: |
-          # American TV, Korean Dramas, Anime, and more.
+          American TV, Korean Dramas, Anime, and more.
         align: left
         image: images/Movies.jpg
         image_alt: Feature 1 placeholder image
