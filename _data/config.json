@@ -10,6 +10,14 @@
                 "style": "link"
             },
             {
+                "label": "Projects",
+                "url": "/projects",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
@@ -28,14 +36,6 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Projects",
-                "url": "/projects",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
