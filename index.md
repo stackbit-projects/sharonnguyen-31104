@@ -64,7 +64,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: Skincare
         content: >-
           ## Lorem ipsum
 
