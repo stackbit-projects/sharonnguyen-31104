@@ -37,10 +37,8 @@ sections:
             url: /features
             style: secondary
       - title: Movies
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Romance, Drama, Comedy, Action, Romantic comedy.
         align: left
         image: images/TV ShowsKorean DramaKdrama.jpg
         image_alt: Feature 2 placeholder image
