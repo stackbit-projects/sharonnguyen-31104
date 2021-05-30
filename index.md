@@ -83,7 +83,7 @@ sections:
             type: action
         type: feature
         image: images/feature.svg
-      - title: lorem-ipsum
+      - title: Fashion
         content: >-
           ## Lorem ipsum
 
