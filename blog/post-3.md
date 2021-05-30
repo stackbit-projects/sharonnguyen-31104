@@ -1,5 +1,5 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: Mascara Smudged? Best Mascara to Fix it!
 date: '2020-05-28'
 author: _data/team/gordon-norman.yaml
 categories:
