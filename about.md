@@ -5,19 +5,13 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: >
+      \~Adulting~ as a Gen Z in 2021. I am learning to find where I fit in the
+      world as I explore everything I love. I am trying to find what makes me
+      the happiest. A life without joy is not a good life. My ultimate goal in
+      life is to be happy and make sure those around me are happy. As I find
+      what I love, I hope to share my journey and my favorite products with
+      everyone including movies, tv shows, beauty products, and more!
   - type: team_section
     title: Our Team
     team:
