@@ -81,6 +81,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/feature.svg
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
