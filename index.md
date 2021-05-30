@@ -90,7 +90,7 @@ sections:
         actions:
           - label: Learn More
             url: '#'
-            style: primary
+            style: secondary
             new_window: false
             no_follow: false
             type: action
