@@ -58,7 +58,7 @@
             {
                 "label": "Instagram",
                 "url": "https://instagram.com/sharonxnguyen",
-                "style": "primary",
+                "style": "link",
                 "new_window": true
             },
             {
