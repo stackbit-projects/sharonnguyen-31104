@@ -79,7 +79,7 @@ sections:
             no_follow: false
             type: action
         type: feature
-        image: images/feature.svg
+        image: images/Skincare.jpg
       - title: Fashion
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
