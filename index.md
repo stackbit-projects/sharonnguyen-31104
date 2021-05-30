@@ -26,10 +26,8 @@ sections:
     title: Favorites
     features:
       - title: TV Shows
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          # American TV, Korean Dramas, Anime, and more.
         align: left
         image: images/Movies.jpg
         image_alt: Feature 1 placeholder image
